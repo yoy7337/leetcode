@@ -6,7 +6,7 @@ function maxProfit(prices: number[]): number {
     let min: number = undefined;
     let cur: number = 0;
     for (let i = 0; i < prices.length; i++) {
-        if (min === undefined || prices[i] < min) {
+        if (min === undefined || prices[i] < minexit) {
             min = prices[i];
             continue;
         } 

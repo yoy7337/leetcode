@@ -1,0 +1,15 @@
+{
+  "name": "Leetcode exercise",
+  "version": "1.0.0",
+  "description": "My Leetcode exercise",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoy7337/leetcode"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "engines": {
+    "node": ">=6.11.4"
+  }
+}

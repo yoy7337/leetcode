@@ -15,7 +15,7 @@ function TreeNode(val) {
  *    \     \
  *     5     4
  */
-let createBinaryTree = (nodes) => {
+const createBinaryTree = (nodes) => {
     const root = new TreeNode(nodes[0]);
     const treeNodes = [root];
     for (let i = 1; i < nodes.length; i++) {

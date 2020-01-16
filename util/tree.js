@@ -6,7 +6,7 @@ function TreeNode(val) {
 }
 
 /**
- * @param {*} nodes
+ * @param {Array} nodes
  * ex:
  * [1,2,3,null,5,null,4]
  *      1
